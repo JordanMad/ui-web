@@ -18,8 +18,6 @@ Make sure to have node > 18
 Due to time contraints I wasn't able to make validations
 Only happy paths exists
 
-Also the checkout page is not done
-
 Future implementation:
 Zod validaton of the inputs and requests.
 Better split of the small components.
